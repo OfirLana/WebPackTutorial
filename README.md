@@ -145,3 +145,5 @@ Entrypoint main = bundle.js
 [3] ./src/CalculatorDivide.js 169 bytes {0} [built]
 [4] ./src/CalculatorMultiply.js 171 bytes {0} [built]
 ```
+
+## Step03 - Test the code
